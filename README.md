@@ -64,7 +64,7 @@ This will install the latest nodejs
 
 ### Install multi-geth
 
-    $ wget https://github.com/ethereumsocial/multi-geth/releases/download/v1.8.10/multi-geth-linux-v1.8.10.zip
+    $ wget https://github.com/EthereumCommonwealth/go-callisto/releases/tag/1.3.1
     $ unzip multi-geth-linux-v1.8.10.zip
     $ sudo mv geth /usr/local/bin/geth
 
